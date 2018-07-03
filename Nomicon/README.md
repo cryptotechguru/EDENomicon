@@ -1,0 +1,12 @@
+# Software Development Game
+
+The Software Development Game (SDG) is a process for generating a software development process that is adapted to an organization's specific requirements and evolves with the organization. The following explanation is excerpted from an [article (pdf)](SDG.pdf) by [Jonathan Kohl](http://www.kohl.ca/) and [David McFadzean](https://github.com/macterra) that was published in the fall 2012 issue of [Better Software](https://www.stickyminds.com/resources/magazine-articles).
+
+> The SDG was inspired by the game [Nomic](http://legacy.earlham.edu/~peters/nomic.htm) created by Peter Suber.  Nomic is a game about decision-making where players agree on an initial ruleset to govern game play, then raise and vote on proposals to change the rules.  So, changing the rules of the game is considered a valid move. Instances of Nomic are frequently played online, and adapt over time as the players adapt and incorporate new ideas and changes into the game. This is a great fit for dynamic software development teams who use technology and are frequently confronted with changing environments.
+
+To implement a Software Development Game instance, a software development team starts with a minimal set of rules and an initial goal to create a Learning Organization (a group of people who continually enhance their capabilities to create what they want to create). Where it evolves from there is entirely up to the players (team members), but if it goes well, they become more productive, efficient and make better decisions as the game progresses. It can start at any level: executive, management, teams or individuals. Later, the game can expand to include more players and teams as it proves its usefulness.
+
+## Nomicon: Policy Is Code
+
+A Nomicon is any instance of the Software Development Game that begins with the [microNomicon](microNomicon.md) seed rules.
+Other seed rule sets are possible (including Nomic itself), and to some extent it doesn't matter because any particular game can evolve from any seed rule set since they are intrinsically adaptive, but microNomicon has proven to be a useful way to kickstart Nomicons at several organizations including [Calgary Scientific](https://www.calgaryscientific.com/) (PureWebNomicon aka PWN), [Synaptive Medical](https://www.synaptivemedical.com/) (Synomicon) and even the [Vulcan Academy](https://www.synaptivemedical.com/) (Vulcanomicon).
