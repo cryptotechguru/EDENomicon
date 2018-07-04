@@ -7,7 +7,6 @@
 1. All rules should be logically self-consistent 
 1. The source for the rules are kept in the [website repository](https://github.com/Equibit/Cryptonomicon)
 1. The rules are published on the [website](https://equibit.github.io/Cryptonomicon/)
-=======
 
 ## Conventions
 
