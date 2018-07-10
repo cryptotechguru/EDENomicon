@@ -1,7 +1,7 @@
 # Cryptonomicon
 
 1. The name of the [game](./Nomicon/) is Cryptonomicon
-1. The goal of the game is to create a learning organization
+1. The goal of the game is to grow adoption of the Equibit protocol
 1. The players of the game are the members of the [Cryptonomicon team](https://github.com/orgs/Equibit/teams/cryptonomicon/members)
 1. All players must unanimously agree to all rule changes
 1. Proposals may add, amend or repeal a rule
