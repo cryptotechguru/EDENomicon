@@ -19,7 +19,7 @@
 1. Only players may fill roles.
 1. For a role nomination proposal to pass, the player nominated MUST give their explicit approval. (No voluntelling!)
 
-### Executor
+### Operator
 
-1. The Executor role has the responsibility to carry out the provisions of the rules that are not yet automated.
-1. The Executors of the game are specified in the [CODEOWNERS](https://github.com/Equibit/Cryptonomicon/CODEOWNERS) file.
+1. The Operator role has the responsibility to carry out the provisions of the rules that are not yet automated.
+1. The Operators of the game are specified in the [CODEOWNERS](https://github.com/Equibit/Cryptonomicon/CODEOWNERS) file.
