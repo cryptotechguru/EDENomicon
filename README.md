@@ -1,7 +1,7 @@
 # Cryptonomicon
 
 1. The name of the [game](./Nomicon/) is Cryptonomicon
-1. The goal of the game is to grow adoption of the Equibit protocol
+1. The goal of the game is to grow adoption of the [Equibit protocol](https://arxiv.org/abs/1612.06953)
 1. The players of the game are the members of the [Cryptonomicon team](https://github.com/orgs/Equibit/teams/cryptonomicon/members)
 1. All players must unanimously agree to all rule changes
 1. Proposals may add, amend or repeal a rule
@@ -24,3 +24,15 @@
 1. A project SHOULD be a collaborative game played between two teams, typically the Gatekeepers and Keymasters
     1. The Gatekeepers (representing the project customers) SHOULD be responsible for acceptance criteria for project deliverables
     1. The Keymasters (representing the project vendors) SHOULD be responsible for developing the project deliverables 
+
+## Roles
+
+1. A role is a function performed by a player (or their delegate) that comes with special rights and responsibilities.
+1. Only players may fill roles.
+1. For a role nomination proposal to pass, the player nominated MUST give their explicit approval. (No voluntelling!)
+
+### Operator
+
+1. The Operator role has the responsibility to carry out the provisions of the rules that are not yet automated.
+1. The Operators of the game are specified in the [CODEOWNERS](https://github.com/Equibit/Cryptonomicon/CODEOWNERS) file.
+
