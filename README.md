@@ -12,3 +12,14 @@
 ## Conventions
 
 1. The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in these rules are to be interpreted as described in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+
+## Roles
+
+1. A role is a function performed by a player (or their delegate) that comes with special rights and responsibilities.
+1. Only players may fill roles.
+1. For a role nomination proposal to pass, the player nominated MUST give their explicit approval. (No voluntelling!)
+
+### Operator
+
+1. The Operator role has the responsibility to carry out the provisions of the rules that are not yet automated.
+1. The Operators of the game are specified in the [CODEOWNERS](https://github.com/Equibit/Cryptonomicon/CODEOWNERS) file.
