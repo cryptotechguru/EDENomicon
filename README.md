@@ -1,11 +1,11 @@
 # Cryptonomicon
 
 1. The name of the [game](./Nomicon/) is Cryptonomicon
-1. The goal of the game is to grow adoption of the [Equibit protocol](https://arxiv.org/abs/1612.06953)
-1. The players of the game are the members of the [Cryptonomicon team](https://github.com/orgs/Equibit/teams/cryptonomicon/members)
+1. The goal of the game is to Decentralize the Singularity
+1. The players of the game are the members of the [Cryptonomicon team](https://github.com/orgs/cryptotechguru/teams/cryptonomicon/members)
 1. All rules should be logically self-consistent 
-1. The source for the rules are kept in the [website repository](https://github.com/Equibit/Cryptonomicon)
-1. The rules are published on the [website](https://equibit.github.io/Cryptonomicon/)
+1. The source for the rules are kept in the [website repository](https://github.com/cryptotechguru/Cryptonomicon)
+1. The rules are published on the [website](https://cryptotechguru.github.io/Cryptonomicon/)
 
 ## Jurisdiction
 
@@ -19,7 +19,7 @@
 
 1. All players must unanimously agree to all rule changes #virtual
 1. All changes to the game MUST be submitted through a pull request (PR)
-1. All changes to the game SHOULD be vetted by submitting a CIP or delta [issue](https://github.com/Equibit/Cryptonomicon/issues).
+1. All changes to the game SHOULD be vetted by submitting a CIP or delta [issue](https://github.com/cryptotechguru/Cryptonomicon/issues).
     1. A CIP is a Cryptonomicon Improvement Proposal (analogous to a BIP in Bitcoin Core). 
     1. A delta is an inconsistency between a specification and an observation (analogous to a bug in software). 
     1. If any player breaks the rules or witnesses another player breaking the rules, they SHOULD file a delta report.
@@ -46,4 +46,4 @@
 ### Operator
 
 1. The Operator role has the responsibility to carry out the provisions of the rules that are not yet automated.
-1. The Operators of the game are specified in the [CODEOWNERS](https://github.com/Equibit/Cryptonomicon/CODEOWNERS) file.
+1. The Operators of the game are specified in the [CODEOWNERS](https://github.com/cryptotechguru/Cryptonomicon/CODEOWNERS) file.
