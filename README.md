@@ -2,7 +2,7 @@
 
 1. The name of the [game](./Nomicon/) is Cryptonomicon
 1. The goal of the game is to Decentralize the Singularity
-1. The players of the game are the members of the [Cryptonomicon team](https://github.com/orgs/cryptotechguru/teams/cryptonomicon/members)
+1. The players of the game are the members of the [players team](https://github.com/orgs/cryptotechguru/teams/players/members)
 1. All rules should be logically self-consistent 
 1. The source for the rules are kept in the [website repository](https://github.com/cryptotechguru/Cryptonomicon)
 1. The rules are published on the [website](https://cryptotechguru.github.io/Cryptonomicon/)
