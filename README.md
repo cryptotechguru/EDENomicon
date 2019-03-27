@@ -25,7 +25,7 @@
     1. If any player breaks the rules or witnesses another player breaking the rules, they SHOULD file a delta report.
     1. Deltas SHOULD be reviewed by the Executors to determine whether the rule should be changed or the player should be sanctioned.
 
-## Projects
+## [Projects](Projects/)
 
 1. A project is a sub-game that inherits from the base rule set of Cryptonomicon
 1. A project MUST have a unique name
