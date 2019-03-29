@@ -51,13 +51,5 @@
     1. The Gatekeepers (representing the project customers) SHOULD be responsible for acceptance criteria for project deliverables
     1. The Keymasters (representing the project vendors) SHOULD be responsible for developing the project deliverables 
 
-## Roles
+## [Roles](Roles/)
 
-1. A role is a function performed by a player (or their delegate) that comes with special rights and responsibilities.
-1. Only players may fill roles.
-1. For a role nomination proposal to pass, the player nominated MUST give their explicit approval. (No voluntelling!)
-
-### Operator
-
-1. The Operator role has the responsibility to carry out the provisions of the rules that are not yet automated.
-1. The Operators of the game are specified in the [CODEOWNERS](https://github.com/cryptotechguru/Cryptonomicon/CODEOWNERS) file.
