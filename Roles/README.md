@@ -8,3 +8,6 @@
 
 * [Player](Player/)
 * [Operator](Operator/)
+* [Gatekeeper](Gatekeeper/)
+* [Keymaster](Keymaster/)
+* [Treasurer](Treasurer/)
