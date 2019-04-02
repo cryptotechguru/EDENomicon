@@ -15,11 +15,14 @@
 1. Requirements (acceptance criteria) are managed by the Gatekeeper.
 1. An estimate (from the table below) is provided by the Keymaster.
 1. The Gatekeeper and Keymaster SHOULD negotiate requirements and estimates until they come to a common understanding.
+1. The Treasurer SHOULD review the bounty's market value against comparable work in other markets.
 1. The Treasurer is responsible for publishing a unique BTC address for each task.
+1. The Treasurer is responsible for periodically adjusting bounty sizing estimate table.
 1. The Keymaster is responsible for delivering on the requirements.
 1. The Gatekeeper is responsible for testing deliverables against requirements and raising issues if any deltas are found.
 1. After the bounty is funded the requirements and/or estimate MAY only be updated if both the Gatekeeper and Keymaster approve the changes.
 1. The Treasurer SHOULD release the bounty to the KeyMaster only when the Gatekeeper marks the task as completed.
+1. The Gatekeeper and Keymaster can request an update to the estimate table at any time.
 
 ## Estimates
 
