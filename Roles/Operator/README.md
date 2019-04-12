@@ -1,7 +1,7 @@
 # Operator
 
 1. The Operator [role](../) has the responsibility to carry out the provisions of the rules that are not yet automated.
-1. The Operators of the game are specified in the [CODEOWNERS](https://github.com/cryptotechguru/Cryptonomicon/CODEOWNERS) file.
+1. The Operators of the game are specified in the [CODEOWNERS](/CODEOWNERS) file.
 
 ## Roster
 
