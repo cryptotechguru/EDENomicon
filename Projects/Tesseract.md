@@ -1,10 +1,10 @@
 # Summary
 
-[OCEAN](https://github.com/project-ocean) stands for Open Crypto Equity Assets Network, a new blockchain forked from Equibit.
+[Tesseract](https://github.com/cryptotechguru/tesseract) a new blockchain forked from OCEAN (which was forked from Equibit which was forked from Bitcoin).
 
 The codebase is forked from [Bitcoin 0.16.3](https://github.com/bitcoin/bitcoin/releases/tag/v0.16.3). Like Equibit this blockchain has a different genesis block which makes it an alt-coin rather than a hard fork of bitcoin like [BCH](https://www.bitcoincash.org/) and [BSV](https://bitcoinsv.io/).
 
-Besides the rebranding, OCEAN implemented some major modifications to Bitcoin:
+Besides the rebranding, Tesseract implemented some major modifications to Bitcoin:
 * The block subsidy follows a logistic (sigmoidal) curve rather than exponential decay (halving)
 * The difficulty re-targeting algorithm was replace with [Dark Gravity Wave](https://coinguides.org/dark-gravity-wave/)
 * SHA-256 hash was replaced by [SHA-3](https://en.wikipedia.org/wiki/SHA-3)
@@ -33,9 +33,7 @@ There are two exceptions to the rule for backwards compatibility:
 
 ## Rebranding
 
-As a pre-requisite to the rest of the projects listed under Futures we should consider rebranding.
-OCEAN is probably not the best name because of possible brand confusion with the [Ocean Protocol](https://oceanprotocol.com/).
-We don't even need to decide on a permanent name in the short term, but we should at least do the work to make rebranding easier, which technically means refactoring the code so that the new name is specified in a minimal number of places.
+Rebranding to Tesseract is in progress.
 
 ## Block Explorer
 
@@ -72,7 +70,7 @@ If we decide to make a clean reboot of the blockchain without the burden of a pr
 
 ## Securities
 
-OCEAN is intended to be an equity blockchain, enabling this issuance and distributed trading of security tokens.
+Tesseract is intended to be an equity blockchain, enabling this issuance and distributed trading of security tokens.
 Recognizing that the mainstream financial securities industry will take some time before a blockchain is trusted with corporate financial instruments we believe it will be essential to demonstrate real use cases in other domains.
 The [Meridion](Meridion.md) governance system provides a salient example by issuing shares in projects rather than companies.
 Once the basic API for issuing and trading shares is in place it will be feasible to expand into other kinds of non-fungible tokens.
