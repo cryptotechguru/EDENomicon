@@ -10,6 +10,6 @@ A [Meridion](Meridion.md) project is a Nomicon game wrapped around a git project
 
 # Potential Games 
 
-* OCEANomicon - governs the [OCEAN](OCEAN.md) blockchain project
+* Tesseractomicon - governs the [Tesseract](Tesseract.md) blockchain project
 * CastleNomicon - governs the [Castle in the Cloud](Castle-in-the-Cloud.md) project
 * KyberNomicon - software development game 

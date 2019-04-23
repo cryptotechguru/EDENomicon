@@ -1,6 +1,6 @@
 # Summary
 
-The Meridion service provides automated tasks and a user interface to any number of [Nomicon](Nomicon.md) games, using the KeyMaster and GateKeeper for authentication, the Compository for a backing store, and a blockchain such as [OCEAN](OCEAN.md) for recording assets and records.
+The Meridion service provides automated tasks and a user interface to any number of [Nomicon](Nomicon.md) games, using the KeyMaster and GateKeeper for authentication, the Compository for a backing store, and a blockchain such as [Tesseract](Tesseract.md) for recording assets and records.
 
 # Operation
 

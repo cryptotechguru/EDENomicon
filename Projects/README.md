@@ -20,6 +20,6 @@ We select and invest our efforts in *community technology* projects that facilit
 
 Each of the projects below are all self-funded and community-driven. If one (or many!) of the projects are of interest to you, please join our channels and help us lead it to successful completion.
 
-* [OCEAN](OCEAN.md) - Open Crypto Equity and Assets Network
+* [Tesseract](Tesseract.md) - Open Crypto Equity and Assets Network
 * [Meridion](Meridion.md) - Open Project Governance-as-a-Service
 * [Castle in the Cloud](Castle-in-the-Cloud.md) - Easy DIY Sovereign Cloud Server

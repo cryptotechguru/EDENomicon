@@ -37,13 +37,13 @@ The Compository will come initialized with all the source code for a new Castle.
 
 ## Meridion
 
-The Meridion service implements a UI to any number of [Nomicon](Nomicon) games. Each game will store a local version in the Compository and integrate with an equity-enabled blockchain (such as [OCEAN](OCEAN)) through an adapter to manage ownership of game assets and archive records for posterity.  
+The Meridion service implements a UI to any number of [Nomicon](Nomicon) games. Each game will store a local version in the Compository and integrate with an equity-enabled blockchain (such as [Tesseract](Tesseract)) through an adapter to manage ownership of game assets and archive records for posterity.  
 
 The Compository will contain an initial Nomicon to govern the self-sovereign Castle.
 
-## OCEAN
+## Tesseract
 
-[OCEAN](OCEAN) is an equity-enabled blockchain forked from Equibit. 
+[Tesseract](Tesseract) is an equity-enabled blockchain forked from Equibit. 
 
 ## Blockchain nodes
 
@@ -82,7 +82,7 @@ All aspects of the project, including the rules themselves, are codified in the 
 At any given time the current state of the project is accessible in its generated web site.
 
 When a new project is created, the original Castle is the sole owner.
-At the time of creation the owner may specify an equity blockchain (such as [OCEAN](OCEAN)) to track ownership and archive records related to the project, most importantly the HEAD commits of the published branches which define the current state of the project.
+At the time of creation the owner may specify an equity blockchain (such as [Tesseract](Tesseract)) to track ownership and archive records related to the project, most importantly the HEAD commits of the published branches which define the current state of the project.
 
 Solo projects may find Meridion useful but the real value proposition comes in when others are invited to collaborate on the project.
 For this example imagine that six other Castles (representing individuals or organizations) are invited to join the project as directors to help guide the project to profitability:
@@ -114,7 +114,7 @@ Castles can implement the [Solid specifications](https://github.com/solid/solid-
 Future companies will not be corporations (entities of the State), rather they will be self-sovereign firms operating in [Cyberspace](https://www.eff.org/cyberspace-independence) flying under the flag of [Ulex](https://medium.com/chainrift-research/ulex-an-open-source-legal-system-6a05481b686f) or a value-oriented Consortium or any number of voluntary alliances. 
 
 The [Aragon Project](https://blog.aragon.org/introducing-aragon-unstoppable-companies-58c1fd2d00ce/) has a consistent vision (and a very nice UI) built on [Ethereum](https://www.ethereum.org). 
-[Meridion](Meridon) projects will provide a similar suite of services but Meridion is intended to be blockchain-agnostic (any blockchain that supports equities, securities or [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token) such as [OCEAN](OCEAN) should be usable through custom adapters).
+[Meridion](Meridon) projects will provide a similar suite of services but Meridion is intended to be blockchain-agnostic (any blockchain that supports equities, securities or [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token) such as [Tesseract](Tesseract) should be usable through custom adapters).
 One significant difference that is anticipated is that smart contracts will be executed locally with only the results posted to the blockchain rather than executing smart contracts on the blockchain. 
 Implications of this architectural difference are TBD.
 
