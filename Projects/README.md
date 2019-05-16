@@ -23,3 +23,4 @@ Each of the projects below are all self-funded and community-driven. If one (or 
 * [Tesseract](Tesseract.md) - Open Crypto Equity and Assets Network
 * [Meridion](Meridion.md) - Open Project Governance-as-a-Service
 * [Castle in the Cloud](Castle-in-the-Cloud.md) - Easy DIY Sovereign Cloud Server
+* [LexiNomicon](Lexinomicon.md) - Nomicon gamespace for governance of Ulex bounties
