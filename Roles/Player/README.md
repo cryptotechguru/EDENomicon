@@ -21,7 +21,3 @@
 
 * [@macterra](https://macterra.github.io/macterra-space/)
 * [@flaxscrip](https://flaxscrip.github.io/flaxscrip-space/)
-* [@manfretto](https://manfretto.github.io/Manfretto-space/)
-* [@sanchopansa](https://sanchopansa.github.io/sanchopansa-space/)
-* [@kinetic-311](https://kinetic-311.github.io/kinetic-311-space//)
-* [@snappaz](https://snappaz.github.io/Snappaz-space/)
