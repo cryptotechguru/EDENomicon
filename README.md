@@ -17,12 +17,13 @@
 
 ## Process
 
-1. All players must unanimously agree to all rule changes #virtual.
+1. All players must unanimously agree to all rule changes.
 1. All changes to the game MUST be submitted through a pull request (PR).
 1. All changes to the game SHOULD be vetted by submitting an [issue](https://github.com/cryptotechguru/EDENomicon/issues).
     1. An issue is an inconsistency between a specification and an observation (analogous to a bug in software).
     1. If any player breaks the rules or witnesses another player breaking the rules, they SHOULD open an issue.
     1. Issues SHOULD be reviewed by the Operators to determine whether the rule should be changed or the player should be sanctioned.
+1. Only players may fill [roles](Roles/).
 
 ### Multi-votes
 1. If a proposal offers a choice between two or more options an Operator should call a multi-vote.
@@ -37,5 +38,3 @@
 1. An option MAY be added to the multi-vote by the sponsor during the vote but options MAY NOT be removed once the vote starts.
 1. Voters MAY update their votes at any time before the vote ends but MUST NOT update anyone else's votes.
 1. A multi-vote MAY be resolved early only if all eligible voters have voted on all options.
-
-## [Roles](Roles/)
