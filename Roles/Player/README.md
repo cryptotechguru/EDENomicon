@@ -15,7 +15,7 @@
 * interesting links
 * recommendations
 * proposals under development
-1. Players MUST publish their player-space with [github pages](https://pages.github.com/) using the Hacker theme. The link will be used in role rosters.
+1. Players MUST publish their player-space with [github pages](https://pages.github.com/) using the theme of their choice. The link will be used in role rosters.
 
 ## Roster
 
