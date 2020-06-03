@@ -1,6 +1,6 @@
 # Player
 
-1. The Player [role](/Cryptonomicon/Roles/) has the responsibility to play by the rules of the game.
+1. The Player [role](/Roles/) has the responsibility to play by the rules of the game.
 1. Players MUST fork their own [player-space repo](https://github.com/cryptotechguru/player-space) that includes:
 * name
 * active game roles
