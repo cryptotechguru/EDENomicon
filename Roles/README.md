@@ -6,6 +6,7 @@
 ## List of Roles
 
 * [Player](Player/)
+* [Maintainer](Maintainer/)
 * [Operator](Operator/)
 * [Gatekeeper](Gatekeeper/)
 * [Keymaster](Keymaster/)
