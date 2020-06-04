@@ -2,7 +2,7 @@
 
 1. The name of the [game](./Nomicon/) is EDENomicon.
 1. The goal of the game is to implement and coordinate ongoing development of the Ethical Data Exchange Network protocol.
-1. The players of the game are the members of the [players team](https://github.com/orgs/cryptotechguru/teams/players/members).
+1. The players of the game are the members of the [Project EDEN](https://github.com/orgs/cryptotechguru/teams/project-eden/members) team.
 1. All rules should be logically self-consistent.
 1. The source code for the game is maintained in the [website repository](https://github.com/cryptotechguru/EDENomicon).
 1. The game is published on the [website](https://cryptotechguru.github.io/EDENomicon/).
