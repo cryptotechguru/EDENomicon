@@ -1,4 +1,4 @@
-## [Projects](/Projects/)
+## Projects
 
 1. A project is a sub-game that inherits from the base rule set of EDENomicon.
 1. A project MUST have a unique name.
@@ -10,3 +10,7 @@
     1. The Gatekeepers (representing the project customers) SHOULD be responsible for acceptance criteria for project deliverables.
     1. The Keymasters (representing the project vendors) SHOULD be responsible for developing the project deliverables.
 1. A project MAY be funded with [Bounties](/Projects/Bounties).
+
+## Ongoing Projects
+
+1. [2020 Pilot Project](2020-Pilot-Project/)

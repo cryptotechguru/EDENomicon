@@ -42,3 +42,7 @@
 ## Ongoing Projects
 
 1. [EDEN-Protocol-Definition](Eden-Protocol-Definition/)
+
+## Achievements
+
+1. [Achievements](Achievements/) are awarded to [Players](Roles/Player) that meet the achievement completion criteria.
