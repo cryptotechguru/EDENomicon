@@ -2,7 +2,7 @@
 
 1. The name of the [game](./Nomicon/) is EDENomicon.
 1. The goal of the game is to implement and coordinate ongoing development of the Ethical Data Exchange Network protocol.
-1. The players of the game are the members of the [players team](https://github.com/orgs/cryptotechguru/teams/players/members).
+1. The players of the game are the members of the [Project EDEN](https://github.com/orgs/cryptotechguru/teams/project-eden/members) team.
 1. All rules should be logically self-consistent.
 1. The source code for the game is maintained in the [website repository](https://github.com/cryptotechguru/EDENomicon).
 1. The game is published on the [website](https://cryptotechguru.github.io/EDENomicon/).
@@ -26,22 +26,9 @@
 1. Only players may fill [roles](Roles/).
 1. If a proposal offers a choice between two or more options an [Operator](Roles/Operator/) should call a [multi-vote](multi-vote.md).
 
-## [Projects](Projects/)
+## Projects
 
-1. A project is a sub-game that inherits from the base rule set of EDENomicon.
-1. A project MUST have a unique name.
-1. A project MAY be located in a [sub-folder](Projects/) named after the project.
-1. A project MAY override a rule in the base game unless the rule is tagged as #final.
-1. A project MAY have its own set of players.
-1. A project SHOULD have a charter document that defines that goals of the project.
-1. A project SHOULD be a collaborative game played between two teams, typically the [Gatekeepers](Roles/Gatekeeper) and [Keymasters](Roles/Keymaster)
-    1. The Gatekeepers (representing the project customers) SHOULD be responsible for acceptance criteria for project deliverables.
-    1. The Keymasters (representing the project vendors) SHOULD be responsible for developing the project deliverables.
-1. A project MAY be funded with [Bounties](Projects/Bounties).
-
-## Ongoing Projects
-
-1. [EDEN-Protocol-Definition](Eden-Protocol-Definition/)
+1. A [project](Projects/) is a sub-game that inherits from the base rule set of EDENomicon.
 
 ## Achievements
 

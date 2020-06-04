@@ -14,3 +14,4 @@
 ## Ongoing Projects
 
 1. [2020 Pilot Project](2020-Pilot-Project/)
+1. [EDEN-Protocol-Definition](EDEN-Protocol-Definition/)
