@@ -38,3 +38,7 @@
     1. The Gatekeepers (representing the project customers) SHOULD be responsible for acceptance criteria for project deliverables.
     1. The Keymasters (representing the project vendors) SHOULD be responsible for developing the project deliverables.
 1. A project MAY be funded with [Bounties](Projects/Bounties).
+
+## Achievements
+
+1. [Achievements](Achievements/) are awarded to [Players](Roles/Player) that meet the achievement completion criteria.
