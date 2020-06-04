@@ -17,14 +17,14 @@
 
 ## Process
 
-1. All players must unanimously agree to all rule changes.
+1. All players with [Maintainer Role](Roles/Maintainer/) MUST agree to all rule changes.
 1. All changes to the game MUST be submitted through a pull request (PR).
 1. All changes to the game SHOULD be vetted by submitting an [issue](https://github.com/cryptotechguru/EDENomicon/issues).
     1. An issue is an inconsistency between a specification and an observation (analogous to a bug in software).
     1. If any player breaks the rules or witnesses another player breaking the rules, they SHOULD open an issue.
     1. Issues SHOULD be reviewed by the Operators to determine whether the rule should be changed or the player should be sanctioned.
 1. Only players may fill [roles](Roles/).
-1. If a proposal offers a choice between two or more options an Operator should call a [multi-vote](multi-vote.md).
+1. If a proposal offers a choice between two or more options an [Operator](Roles/Operator/) should call a [multi-vote](multi-vote.md).
 
 ## [Projects](Projects/)
 
