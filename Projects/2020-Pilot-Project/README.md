@@ -24,6 +24,12 @@ Notarizing product claims generates multiple benefits:
 - Clinics and Dispensaries
 - Patients and Customers
 
+## Generic Pilot Scenario:
+
+This scenario describes a step-by-step use of EDEN by a _Farmer_, a _Lab_, a _Consumer_, and an _Analytics Company_. 
+
+- [2020 EDEN Pilot Example](https://nomicon.edenprotocol.io/Projects/2020-Pilot-Project/EDEN-Pilot-Example.html).
+
 ## Pilot Outcome:
 
 We want to be able to associate quality claims across the supply chain.
