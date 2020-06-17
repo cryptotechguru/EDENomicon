@@ -12,12 +12,12 @@
 
 - Profile Step 1.4: The farmer creates a claim to a farm practice: "Organic farming only"
 
-- Profile Step 1.5: The farmer associates all 3 claims to his farm's network identity.
-              <br> Peers inquiring about this farm ID on the network will be able to view all 3 notarized claims.
+- Profile Step 1.5: The farmer associates all three claims to his farm's network identity.
+              <br> Peers inquiring about this farm ID on the network will be able to view all three notarized claims.
 
-- Profile Step 1.6: The farmer creates an evidence transaction pointing to usda.gov organic certification status.
+- Profile Step 1.6: The farmer creates an evidence of the transaction pointing to an independant certification company (such as https://cleangreencertified.com/).
 
-- Profile Step 1.7: The farmer associates the "Organic farming only" claim with the "usda.gov" evidence record.
+- Profile Step 1.7: The farmer associates the "Organic farming only" claim with the "cleangreencertified.com" evidence record.
 
 ### CREATING A PRODUCT BATCH HISTORY:
 
@@ -30,13 +30,13 @@
 
 - Product Step 2.4: The farmer creates a new claim for the product quality: "No mold or additives"
 
-- Product Step 2.5: The farmer transfers control of the product batch history to next partner on the chain.
+- Product Step 2.5: The farmer transfers control of the product batch history to a distributor or dispensary.
 
 - Product Step 2.6: The farmer creates a new claim for the product status: "shipped"
 
-- Product Step 2.7: The farmer associates the product batch history transfer of control transaction as evidence to product status change.
+- Product Step 2.7: The farmer associates the product batch history and transfers of control with evidence through seed-to-sale software (such as METRC).
 
-- Product Step 2.8: The farmer subscribe to notifications of product history updates .
+- Product Step 2.8: The farmer subscribes to notifications of product history updates.
 
 ### VALIDATING WITH EVIDENCE:
 
