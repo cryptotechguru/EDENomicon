@@ -4,7 +4,7 @@
 1. A project MUST have a unique name.
 1. A project MAY be located in a sub-folder of EDENomicon named after the project.
 1. A project MAY override a rule in the base game unless the rule is tagged as #final.
-1. A project MAY have its own set of players. 
+1. A project MAY have its own set of players.
 1. A project SHOULD have a charter document that defines that goals of the project.
 1. A project SHOULD be a collaborative game played between two teams, typically the [Gatekeepers](/Roles/Gatekeeper) and [Keymasters](/Roles/Keymaster)
     1. The Gatekeepers (representing the project customers) SHOULD be responsible for acceptance criteria for project deliverables.
@@ -13,5 +13,7 @@
 
 ## Ongoing Projects
 
-1. [2020 Pilot Project](2020-Pilot-Project/)
-1. [EDEN-Protocol-Definition](EDEN-Protocol-Definition/)
+1. [Metatron Protocol Launch](Metatron_Protocol_Launch/README.md)
+
+## Projects Archives
+1. [Archives folder](Archives)
