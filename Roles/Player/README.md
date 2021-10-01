@@ -21,6 +21,4 @@
 
 * [@macterra](https://macterra.github.io/macterra-space/)
 * [@flaxscrip](https://flaxscrip.github.io/flaxscrip-space/)
-* [@dawnTestCode](https://dawntestcode.github.io/dawnTestCode-space//)
-* [@genecyber](https://genecyber.github.io/ShannonCodePlayer-space/)
 * [@angelabacca](https://angelabacca.github.io/angela-player-space/)
