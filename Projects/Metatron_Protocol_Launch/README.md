@@ -10,11 +10,11 @@ The Goal of Project Metatron is to successfully launch the [Metatron Protocol](h
 
 The Metatron Protocol provides key functionality that will be immediately put to use in a technology pilot involving members from the [Ethical Data Alliance](https://ethicaldata.net/about-us/governance/) community.
 
-A full description of the EDA's needs for peer-to-peer technology is available online: [Ethical Data Alliance - What we are doing](ethicaldata.net/what-we-are-doing/).
+A full description of the EDA's needs for peer-to-peer technology is available online: [Ethical Data Alliance - What we are doing](https://ethicaldata.net/what-we-are-doing/).
 
 ## EDEN Use Cases
 
-In summary, the EDA community needs Metatron and Filecoin to build a data exchange network that protects data authorship and history. We call these use cases the ["EDEN Protocol"](https://www.edenprotocol.io).
+In summary, the EDA community needs Metatron and Filecoin to build a data exchange network that protects data authorship and history. We call these use cases the ["EDEN Protocol"](https://edenprotocol.io).
 
 The 4 main requirements of the EDEN Protocol are:
 
@@ -48,20 +48,22 @@ The plan is divided in 5 Sprints:
 1. Sprint 4: EDA Pilot Configuration and Support
 1. Sprint 5: Sustaining, Postmortem, Presentation for Global Promotion
 
-Because of the scarcity of expert resources and to allow coordination time with the EDA Pilot efforts, we are proposing a plan that stretches out over 20 weeks with 2 python programmers committed to ~20 hours / week. @macterra will provide architecture and technology guidance for Metatron while @flaxscrip will manage the overall effort.
+Because of the scarcity of expert resources and to allow coordination time with the EDA Pilot efforts, we are proposing a plan that stretches out over 20 weeks with 2 python programmers committed to ~20 hours / week. [@macterra](https://macterra.github.io/macterra-space/) will provide architecture and technology guidance for Metatron while [@flaxscrip](https://flaxscrip.github.io/flaxscrip-space/) will manage the overall effort to completion. [aiggdev](https://github.com/aiggdev) is our main Python developer, and we are looking for a *filecoin-tbd* resource.
 
 The draft plan proposes a series of 16 deliverables that stretches out through the 20 weeks. Each deliverable can be defined as a Bounty that will be assigned to the appropriate Players. Upon completion of a deliverable, 1/16th of the project's budget would be awarded to the contributors. Each bounty can specify custom allocation of the payment to the participating players.
 
 ![Metatron Project Deliverables](Metatron_Project_Deliverables.png)
 
-## Project Management and governance
+## Project Management and Governance
 
-There is a pre-Filecoin history to the project that can be preserved with the continued use of EDENomicon as an open governance and transparent project management methodology. If a "clean slate" is desired, we could fork a new Nomicon game specifically for this launch. This will be determined after discussion with the Filecoin Foundation team.
+There is a pre-Filecoin history to the project that can be preserved with the continued use of [EDENomicon](https://nomicon.edenprotocol.io/) as an open governance and transparent project management methodology. If a "clean slate" is desired, we could fork a new Nomicon game specifically for this launch. This will be determined after discussion with the Filecoin Foundation team.
 
-Nomicon is an open project management methodology that @macterra and @flaxscrip have used successfully in numerous other software projects. For more information, please visit the [Software Development Game](https://nomicon.edenprotocol.io/Nomicon/) page on the EDENomicon.
+Nomicon is an open project management methodology that we have used successfully in numerous other software projects. For more information, please visit the [Software Development Game](https://nomicon.edenprotocol.io/Nomicon/) page on the EDENomicon.
 
 [![The Software Development Game](What_is_Nomicon.png)](https://nomicon.edenprotocol.io/Nomicon/SDG.pdf)
 
 ## Join Us!
 
-We welcome contributions and participation from everyone. Please engage through the EDENomicon game and discussions. Thank you for helping us achieve a successful launch of Metatron. 
+We welcome contributions and participation from everyone. Please engage through the EDENomicon game and discussions. Thank you for helping us achieve a successful launch of Metatron.
+
+An [ODS](https://www.libreoffice.org/discover/what-is-opendocument/) version of this draft plan can be downloaded [here](Metatron_Plan_v.0.1.ods).
