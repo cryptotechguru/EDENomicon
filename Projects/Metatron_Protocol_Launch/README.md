@@ -27,21 +27,21 @@ The EDEN Protocol will become a set of instructions, customizations, and lessons
 
 ## Web3 Supply Chain Management
 
-At the outset of the Metatron Launch and EDEN Pilot, we will have implemented and demonstrated a P2P protocol for supply chain management and product traceability. While our initial user community is built around the EDA, this Web3 Supply Chain Management and Product Traceability solution will be ready to engage with other industries (food, art, medicine, etc).
+The goals of the Metatron Launch and EDEN Pilot are to implement and demonstrate a P2P protocol for supply chain management and product traceability. While our initial user community is built around the EDA, this Web3 Supply Chain Management and Product Traceability solution will be ready to engage with other industries (food, art, medicine, etc).
 
 ## Metatron Launch and Pilot Draft Plan
 
-The *draft* plan blow provides for 3 main outcomes:
+The *draft* plan below provides for 3 main outcomes:
 
 1. Basic Integration of Metatron with Filecoin
 1. Launch of Metatron Protocol and Reference Implementation
 1. Configuration and Support for EDA's Pilot use of Metatron
 
-The plan currently still misses a Python software engineer with Filecoin experience. We are actively looking at finding that resource. Please contact [flaxscrip](https://flaxscrip.github.io/flaxscrip-space/) with references.
+The plan currently still requires a Python software engineer with Filecoin experience. We are actively looking at finding that resource. Please contact [flaxscrip](https://flaxscrip.github.io/flaxscrip-space/) with references.
 
 ![Metatron Launch and Pilot Draft Plan](Metatron_Plan.png)
 
-The plan is divided in 5 Sprints:
+The plan is divided in five 4-weeks sprints:
 1. Sprint 1: Protocol Work
 1. Sprint 2: UX Improvements and Filecoin Integration
 1. Sprint 3: Public Launch of Repo and Reference Implementation
@@ -59,8 +59,6 @@ The draft plan proposes a series of 16 deliverables that stretches out through t
 There is a pre-Filecoin history to the project that can be preserved with the continued use of [EDENomicon](https://nomicon.edenprotocol.io/) as an open governance and transparent project management methodology. If a "clean slate" is desired, we could fork a new Nomicon game specifically for this launch. This will be determined after discussion with the Filecoin Foundation team.
 
 Nomicon is an open project management methodology that we have used successfully in numerous other software projects. For more information, please visit the [Software Development Game](https://nomicon.edenprotocol.io/Nomicon/) page on the EDENomicon.
-
-[![The Software Development Game](What_is_Nomicon.png)](https://nomicon.edenprotocol.io/Nomicon/SDG.pdf)
 
 ## Join Us!
 
