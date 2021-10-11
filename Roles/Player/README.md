@@ -22,3 +22,7 @@
 * [@macterra](https://macterra.github.io/macterra-space/)
 * [@flaxscrip](https://flaxscrip.github.io/flaxscrip-space/)
 * [@angelabacca](https://angelabacca.github.io/angela-player-space/)
+
+## Active Players
+
+An Active Player is a Player listed in a Bounty payment schedule.
