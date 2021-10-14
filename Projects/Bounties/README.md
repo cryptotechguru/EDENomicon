@@ -23,24 +23,24 @@ The players involved SHOULD marshal the bounty through the following standard [p
 
 1. The bounty's wiki page and corresponding issue are created and cross-linked.
 1. Requirements (acceptance criteria) are managed by the Gatekeeper.
-1. An estimate (from the table below) is provided by the Keymaster.
-1. The Gatekeeper and Keymaster negotiate requirements and estimates until they come to a common understanding.
-1. When ready the Gatekeeper moves the issue to `Proposed` and hands off (assigns the issue) to the Treasurer.
+2. Active Players are defined in the Bounty by the Gatekeeper.
+3. The Gatekeeper and Keymaster define payment allocation between Active Players.
+4. Each Player involved must declare a payment currency (USD or FIL). 
+5. When ready the Gatekeeper moves the issue to `Proposed` and hands off (assigns the issue) to the Treasurer.
 
 ### Proposed Stage
 
-1. The Treasurer reviews the bounty's market value against comparable work in other markets. If out of line the Treasurer SHOULD send the issue back to `Triage`.
-1. The Treasurer creates a crowdfund page on the pay server and publishes the corresponding link on the wiki page.
-1. The Treasurer notifies subscribers that the bounty is open for funding.
-1. The Treasurer monitors the funding and periodically notifies subscribers of progress.
-1. If the bounty funding reaches 100% the Treasurer moves the issue to `In Progress` and hands off to the Keymaster.
-1. If the deadline is reached before the bounty is funded the Treasurer is responsible for sending refunds to participants, updating the wiki page and closing the issue.
+1. The Treasurer reviews the bounty's market value against planned deliverable value or comparable work in other markets. If out of line the Treasurer SHOULD send the issue back to `Triage`.
+1. The Gatekeeper creates a crowdfund page on the pay server and publishes the corresponding link on the wiki page.
+1. The Treasurer notifies Active Players that the bounty is approved and open for funding.
+1. The Gatekeeper moves the issue to `In Progress` and hands off to the Keymaster.
+1. If the bounty is rejected by the Tresurer, the Gatekeeper is responsible for communicating issues to Active Players, updating the wiki page and/or closing the issue.
 
 ### In Progress Stage
 
 1. The Keymaster is responsible for delivering on the requirements.
 1. The Keymaster should periodically update the issue with progress reports.
-1. After the bounty is funded the requirements and/or estimate MAY only be updated if both the Gatekeeper and Keymaster approve the changes.
+1. After the bounty is funded the requirements and/or payment allocation MAY only be updated if both the Gatekeeper and Keymaster approve the changes.
 1. When ready the Keymaster updates the Deliverables section of the wiki page, moves the issue to `In Review`, and hands off to the Gatekeeper.
 
 ### In Review Stage
@@ -55,14 +55,9 @@ The players involved SHOULD marshal the bounty through the following standard [p
 1. The Treasurer verifies the request and sends the payment to the Keymaster.
 1. When the payment is received the Keymaster closes the issue.
 
-## Estimates
+## Deliverable-Based Payments
 
-1. The Treasurer is responsible for periodically adjusting bounty sizing estimate table.
-1. The Gatekeeper and Keymaster can request an update to the estimate table at any time.
+1. Each deliverable has been estimated at 1/16th of the original $72,000 budget proposed in the [Metatron Open Grant Proposal](https://github.com/Flaxscrip/devgrants/blob/Flaxscrip-patch-1/open-grant-proposals/open-proposal-metatron.md)
+1. Active Players can request payment in USD or FIL during the Triage Stage.
+1. Payment for each deliverable is divided among Active Players based on latest approved Bounty allocation at the time of payment.
 
-| size | time (hours, P50/P90) | bounty (BTC) | 
-| ---- | ----- | ----- |
-| S    |  5/10 | 0.125 |
-| M    | 10/20 | 0.250 |
-| L    | 20/40 | 0.500 |
-| XL   | 40/80 | 1.000 | 
