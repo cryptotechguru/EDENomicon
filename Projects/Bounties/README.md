@@ -1,23 +1,20 @@
 # Bounties
 
-1. Bounties provide a mechanism for funding tasks. 
+1. Bounties provide a mechanism for funding tasks.
 1. Tasks are tracked as [issues](https://github.com/cryptotechguru/EDENomicon/issues).
 1. The bounty MUST get its own page which includes:
 * name (Bounty-#) where # is the issue #
-* associated issue link
+* associated issue and deliverables link
 * lead [Gatekeeper](/Roles/Gatekeeper)
 * lead [Keymaster](/Roles/Keymaster)
 * assigned [Treasurer](/Roles/Treasurer)
 * associated project link
 * requirements
-* estimate
-* funding deadline
-* bounty address 
-* deliverables
+* estimate & funding
 
 ## Process
 
-The players involved SHOULD marshal the bounty through the following standard [project](https://github.com/cryptotechguru/EDENomicon/projects) stages: 
+The players involved SHOULD marshal the bounty through the following standard [project](https://github.com/cryptotechguru/EDENomicon/projects) stages:
 
 ### Triage Stage
 
@@ -25,7 +22,7 @@ The players involved SHOULD marshal the bounty through the following standard [p
 1. Requirements (acceptance criteria) are managed by the Gatekeeper.
 2. Active Players are defined in the Bounty by the Gatekeeper.
 3. The Gatekeeper and Keymaster define payment allocation between Active Players.
-4. Each Player involved must declare a payment currency (USD or FIL). 
+4. Each Player involved must declare a payment currency (USD or FIL).
 5. When ready the Gatekeeper moves the issue to `Proposed` and hands off (assigns the issue) to the Treasurer.
 
 ### Proposed Stage
@@ -60,4 +57,3 @@ The players involved SHOULD marshal the bounty through the following standard [p
 1. Each deliverable has been estimated at 1/16th of the original $72,000 budget proposed in the [Metatron Open Grant Proposal](https://github.com/Flaxscrip/devgrants/blob/Flaxscrip-patch-1/open-grant-proposals/open-proposal-metatron.md)
 1. Active Players can request payment in USD or FIL during the Triage Stage.
 1. Payment for each deliverable is divided among Active Players based on latest approved Bounty allocation at the time of payment.
-
