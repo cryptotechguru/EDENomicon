@@ -64,4 +64,4 @@ Nomicon is an open project management methodology that we have used successfully
 
 We welcome contributions and participation from everyone. Please engage through the EDENomicon game and discussions. Thank you for helping us achieve a successful launch of Metatron.
 
-An [ODS](https://www.libreoffice.org/discover/what-is-opendocument/) version of this draft plan can be downloaded [here](Metatron_Plan_v.0.1.ods).
+An [ODS](https://www.libreoffice.org/discover/what-is-opendocument/) version of this draft plan can be downloaded: [Metatron_Plan_v.0.9.ods](Metatron_Plan_v.0.9.ods).
