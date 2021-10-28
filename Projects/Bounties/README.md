@@ -48,9 +48,9 @@ The players involved SHOULD marshal the bounty through the following standard [p
 
 ### Completed Stage
 
-1. The Keymaster creates a payment request in the pay server and sends a link directly to the Treasurer.
-1. The Treasurer verifies the request and sends the payment to the Keymaster.
-1. When the payment is received the Keymaster closes the issue.
+1. The Gatekeeper or a [Maintainer](/Roles/Maintainer) sends a message to the Treasurer for payment to be disbursed to the FIL addresses listed in the Bounty.
+1. The Treasurer verifies the request and sends the payment.
+1. When the payment is received the Gatekeeper or a Maintainer closes the issue.
 
 ## Deliverable-Based Payments
 

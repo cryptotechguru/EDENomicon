@@ -52,7 +52,7 @@ Because of the scarcity of expert resources and to allow coordination time with 
 
 The draft plan proposes a series of 16 deliverables that stretches out through the 20 weeks. Each deliverable can be defined as a Bounty that will be assigned to the appropriate Players. Upon completion of a deliverable, 1/16th of the project's budget would be awarded to the contributors. Each bounty can specify custom allocation of the payment to the participating players.
 
-![Metatron Project Deliverables](Metatron_Project_Deliverables.png)
+![Metatron Project Deliverables](Metatron_Deliverables_v0.9.png)
 
 ## Project Management and Governance
 
