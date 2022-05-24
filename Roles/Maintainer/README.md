@@ -10,3 +10,6 @@
 ## Roster
 
 * [@flaxscrip](https://flaxscrip.github.io/flaxscrip-space/)
+* [@macterra](https://macterra.github.io/macterra-space/)
+* [@aiggdev](https://github.com/aiggdev/aiggdev-space/)
+* [@foundationx](https://foundationx.github.io/foundationx-space/)
