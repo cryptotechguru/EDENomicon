@@ -24,6 +24,7 @@
 * [@aiggdev](https://github.com/aiggdev/aiggdev-space/)
 * [@angelabacca](https://angelabacca.github.io/angela-player-space/)
 * [@foundationx](https://foundationx.github.io/foundationx-space/)
+* [@sarah-lee123](https://github.com/Sarah-lee123/player-space)
 * [@flowscience](https://flowscience.github.io/player-space/)
 
 ## Active Players
